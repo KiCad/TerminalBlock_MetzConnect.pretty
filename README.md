@@ -1,2 +1,2 @@
 # TerminalBlock_MetzConnect.pretty
-Metz-Connect terminal block footprints
+Metz-Connect (http://www.metz-connect.com) terminal block footprints
